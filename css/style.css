@@ -1,0 +1,23 @@
+
+body, nav, header, section, div, aside {
+    border: 2px solid red;
+}
+
+.activePage {
+    background-color: #EFA1E7;
+}
+
+header {
+    display: flex;
+   justify-content: flex-end;
+   align-items: center;
+}
+
+.Headerlist {
+   margin: 10px;
+}
+
+a {
+    color: black;
+}
+
